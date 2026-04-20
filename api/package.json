@@ -1,0 +1,19 @@
+{
+  "name": "timesheet-api",
+  "version": "1.0.0",
+  "description": "Azure Functions API - Gestion Feuilles de Temps",
+  "main": "index.js",
+  "scripts": {
+    "start": "func start",
+    "build": "echo 'No build needed'"
+  },
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "exceljs": "^4.4.0",
+    "jsonwebtoken": "^9.0.2",
+    "mssql": "^10.0.2"
+  },
+  "devDependencies": {
+    "@azure/functions": "^3.5.1"
+  }
+}
