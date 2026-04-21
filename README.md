@@ -1,7 +1,7 @@
 # 🕐 Gestion des Feuilles de Temps — Sankofa Education
 
 Application web complète de gestion  des  feuilles de temps pour les garderies
-**GLPB**, **GLPN** et **GLNA**, hébergée  sur  Azure Static Web Apps.
+**GLPB**, **GLPN** et **GLNA**,  hébergée  sur  Azure Static Web Apps.
 
 ---
 
